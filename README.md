@@ -13,4 +13,4 @@ The dataset includes details such as:
         - Tax classifications 
         - Trends in business activity across the state 
 
-# The dataset provides a reliable source for conducting exploratory data analysis (EDA) and generating insights that can support business and economic decision-making.
+ The dataset provides a reliable source for conducting exploratory data analysis (EDA) and generating insights that can support business and economic decision-making.

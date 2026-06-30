@@ -6,7 +6,7 @@ The dataset includes details such as:
         - Business location
         - Tax type
         - Permit issue dates
-        - Permit cancellation dates
+        - Permit cancellation dates.
 
 This information is valuable for analyzing 
         - Business registration patterns 
